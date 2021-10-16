@@ -158,6 +158,11 @@
         border-radius: 10px;
     }
 
+    .section-utilite h2
+    {
+        color: #000;
+    }
+
     .section-utilite p
     {
         text-align: start;
