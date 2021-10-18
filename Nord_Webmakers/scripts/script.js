@@ -32,4 +32,3 @@ function listeUtilite()
     listesUtilite[8].src = `../ressources/services/rentabilite.png`;
     listesUtilite[9].src = `../ressources/services/objectif.png`;
 }
-
