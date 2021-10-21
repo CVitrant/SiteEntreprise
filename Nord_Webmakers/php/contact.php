@@ -68,7 +68,7 @@ if(!$mail->send()) {
 
 //redirect to the 'thank you' page
 
-header('Location: ../pages/contact.html');
+header('Location: ../pages/contact-redirect.html');
 
 }
 ?>
